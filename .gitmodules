@@ -1,0 +1,3 @@
+[submodule "pymonero"]
+	path = pymonero
+	url = https://github.com/ehanoc/pymonero.git
