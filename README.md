@@ -4,7 +4,7 @@
 
 - TESTING ONLY. Filename & testnet hardcoded in init app.py
 
-- Uses pymonero (Python C++ bindings)
+- Uses https://github.com/ehanoc/pymonero (Python C++ bindings)
 
 # Build
 - Clone
