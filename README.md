@@ -1,5 +1,11 @@
 # pymonero-gui
 
+- Proof-of-concept to develop with monero in Python. Currently only creates & shows a monero wallet (main public address & seed)
+
+- TESTING ONLY. Filename & testnet hardcoded in init app.py
+
+- Uses pymonero (Python C++ bindings)
+
 # Build
 - Clone
 - ``` git submodule update --init --recursive --remote ```
