@@ -6,7 +6,7 @@
 
 - Uses https://github.com/ehanoc/pymonero (Python C++ bindings)
 
-# Dependancies
+# Dependencies
 - sudo apt-get install python3-tk
 
 # Build
